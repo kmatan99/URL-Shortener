@@ -1,0 +1,11 @@
+.userButton {
+    height: 35px;
+    width: 130px;
+    background-color: white;
+    margin: 12px 20px 0px 5px;
+}
+
+.dropMenu {
+    display: flex;
+    flex-direction: column;
+}

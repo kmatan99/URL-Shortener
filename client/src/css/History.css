@@ -1,0 +1,44 @@
+.rightHalf {
+    flex-direction: column;
+    width: 50%;
+}
+
+.historyIcon {
+    height: 15%;
+    display: flex;
+    justify-content: center;
+}
+
+#searchHistory {
+    margin-top: 15px;
+    color: rgb(107, 63, 37);
+    font-size: 25px;
+}
+
+.urlList {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    align-items: center;
+}
+
+#favourite {
+    color: red;
+    margin: 3px;
+    margin-right: 7px;
+}
+
+#delete {
+    color: red;
+    margin: 3px;
+    margin-left: 10px;
+}
+
+.list {
+    display: flex;
+    flex-direction: row;
+}
+
+.heart {
+    width: 25px;
+}

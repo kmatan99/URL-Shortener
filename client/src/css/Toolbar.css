@@ -1,0 +1,39 @@
+.toolbar {
+    height: 8vh;
+    display: flex;
+    flex-direction: row;
+}
+
+.appName {
+    color: white;
+    font-weight: 600;
+    font-size: 25px;
+    margin: 13px auto 0px 20px;    
+}
+
+.signup {
+    color: white;
+    background-color: #5A85F3;
+    border-radius: 3px;
+    border: 0px;
+    height: 54%;
+    width: 40%;
+    margin: 14px 5px 0px 5px;
+}
+
+.login {
+    color: white;
+    background-color: #3ecb0d;
+    height: 54%;
+    width: 40%;
+    border-radius: 3px;
+    border: 0px;
+    margin: 14px 10px 0px 5px;
+}
+
+.userActions {
+    display: flex;
+    flex-direction: row;
+    width: 30%;
+    justify-content: flex-end;
+}

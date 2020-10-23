@@ -1,0 +1,5 @@
+.lowerRectangle {
+    height: 50vh;
+    display: flex;
+    flex-direction: row;
+}

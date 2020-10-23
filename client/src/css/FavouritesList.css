@@ -1,0 +1,32 @@
+.leftHalf {
+    flex-direction: column;
+    width: 50%;
+}
+
+.favouritesIcon {
+    height: 15%;
+    display: flex;
+    justify-content: center;   
+}
+
+#favourites {
+    margin-top: 15px;
+    color: rgb(240, 84, 84);
+    font-size: 25px;
+}
+
+.urlList {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    align-items: center;
+}
+
+.urls {
+    margin: 3px;
+}   
+
+.list {
+    display: flex;
+    flex-direction: row;
+}
